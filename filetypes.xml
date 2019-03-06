@@ -8,6 +8,7 @@
       <mapping pattern="osmid_name" type="PLAIN_TEXT" />
       <mapping pattern="20140425-伪基站关键词" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag.txt" type="PLAIN_TEXT" />
+      <mapping pattern="oppoR17_2_4000" type="PLAIN_TEXT" />
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
       <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="country_city_poi" type="PLAIN_TEXT" />
