@@ -6,5 +6,9 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
