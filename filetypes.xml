@@ -2,15 +2,17 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.cmd;*.hprof;*.idea;*.iml;*.mvn;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;mvnw;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="cloud2" type="HTML" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark2" type="PLAIN_TEXT" />
+      <mapping pattern="ta" type="PLAIN_TEXT" />
       <mapping pattern="specialname" type="PLAIN_TEXT" />
       <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="unq_verb" type="PLAIN_TEXT" />
       <mapping pattern="start_url_true" type="PLAIN_TEXT" />
       <mapping pattern="ns_c2" type="PLAIN_TEXT" />
+      <mapping pattern="verb" type="PLAIN_TEXT" />
       <mapping pattern="uniq_1130_ver5" type="PLAIN_TEXT" />
       <mapping pattern="20140425-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="specialname_only_compose" type="PLAIN_TEXT" />
@@ -20,7 +22,7 @@
       <mapping pattern="专属词汇" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag.txt" type="PLAIN_TEXT" />
       <mapping pattern="urlQuerystrDoc" type="PLAIN_TEXT" />
-      <mapping pattern="20140514-屏蔽型关键词" type="PLAIN_TEXT" />
+      <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
       <mapping pattern="start_url" type="PLAIN_TEXT" />
       <mapping pattern="domain_src_mapping" type="PLAIN_TEXT" />
       <mapping pattern="20150306-屏蔽域名库1177" type="PLAIN_TEXT" />
@@ -38,6 +40,7 @@
       <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000" type="PLAIN_TEXT" />
+      <mapping pattern="country_city_poi" type="PLAIN_TEXT" />
       <mapping pattern="dirty" type="PLAIN_TEXT" />
       <mapping pattern="start_urls" type="PLAIN_TEXT" />
       <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
@@ -51,29 +54,25 @@
       <mapping pattern="20140414-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
       <mapping pattern="20140425-伪基站关键词" type="PLAIN_TEXT" />
-      <mapping pattern="verb" type="PLAIN_TEXT" />
       <mapping pattern="special_singleword" type="PLAIN_TEXT" />
       <mapping pattern="special_uniq_sort" type="PLAIN_TEXT" />
       <mapping pattern="special" type="PLAIN_TEXT" />
-      <mapping pattern="ta" type="PLAIN_TEXT" />
-      <mapping pattern="word_count_1211" type="PLAIN_TEXT" />
-      <mapping pattern="ns_poi" type="PLAIN_TEXT" />
-      <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
       <mapping pattern="osmid_name" type="PLAIN_TEXT" />
       <mapping pattern="urlQureyDoc" type="PLAIN_TEXT" />
+      <mapping pattern="word_count_1211" type="PLAIN_TEXT" />
+      <mapping pattern="ns_poi" type="PLAIN_TEXT" />
+      <mapping pattern="20140514-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="country_city_poi" type="PLAIN_TEXT" />
       <mapping pattern="dirty_connect" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark" type="PLAIN_TEXT" />
       <mapping pattern="uniq_verb" type="PLAIN_TEXT" />
-      <mapping pattern="tag_test" type="PLAIN_TEXT" />
       <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="宝箱活动" type="PLAIN_TEXT" />
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
+      <mapping pattern="tag_test" type="PLAIN_TEXT" />
       <mapping ext="yes" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="txt_03" type="PLAIN_TEXT" />
       <mapping ext="txt_02" type="PLAIN_TEXT" />
       <mapping ext="txt_01" type="PLAIN_TEXT" />
@@ -93,6 +92,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="propertis" type="PLAIN_TEXT" />
       <mapping ext="f" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="four" type="PLAIN_TEXT" />
       <mapping ext="thd" type="PLAIN_TEXT" />
       <mapping pattern="乌鲁木齐二人分析" type="ThymeleafExpressions" />
