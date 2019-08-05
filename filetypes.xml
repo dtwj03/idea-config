@@ -6,13 +6,13 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="cloud2" type="HTML" />
       <mapping pattern="专属词汇" type="PLAIN_TEXT" />
-      <mapping pattern="start_urls" type="PLAIN_TEXT" />
       <mapping pattern="start_url_true" type="PLAIN_TEXT" />
+      <mapping pattern="img.base64" type="PLAIN_TEXT" />
       <mapping pattern="country_city_poi" type="PLAIN_TEXT" />
       <mapping pattern="20140425-伪基站关键词" type="PLAIN_TEXT" />
       <mapping pattern="20140414-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping pattern="img.base64" type="PLAIN_TEXT" />
+      <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_desc_10000" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
@@ -25,11 +25,14 @@
       <mapping pattern="unq_verb" type="PLAIN_TEXT" />
       <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark2" type="PLAIN_TEXT" />
+      <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
       <mapping pattern="mysql.MD" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords" type="PLAIN_TEXT" />
       <mapping pattern="pic_tag" type="PLAIN_TEXT" />
       <mapping pattern="ta" type="PLAIN_TEXT" />
+      <mapping pattern="scenceTag" type="PLAIN_TEXT" />
       <mapping pattern="20140425-屏蔽型关键词" type="PLAIN_TEXT" />
+      <mapping pattern="verb" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag.txt" type="PLAIN_TEXT" />
       <mapping pattern="urlQuerystrDoc" type="PLAIN_TEXT" />
       <mapping pattern="dirty" type="PLAIN_TEXT" />
@@ -46,45 +49,42 @@
       <mapping pattern="cant_recog2" type="PLAIN_TEXT" />
       <mapping pattern="20140514-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="word_count_1211" type="PLAIN_TEXT" />
-      <mapping pattern="scenceTag" type="PLAIN_TEXT" />
       <mapping pattern="oppoR17_2_4000" type="PLAIN_TEXT" />
       <mapping pattern="picTag" type="PLAIN_TEXT" />
       <mapping pattern="uniq_verb" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine" type="PLAIN_TEXT" />
-      <mapping pattern="1_not_dirty" type="PLAIN_TEXT" />
+      <mapping pattern="start_urls" type="PLAIN_TEXT" />
       <mapping pattern="urlQureyDoc" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark" type="PLAIN_TEXT" />
       <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
+      <mapping pattern="dirty_connect" type="PLAIN_TEXT" />
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
       <mapping pattern="special_2" type="PLAIN_TEXT" />
-      <mapping pattern="dirty_connect" type="PLAIN_TEXT" />
       <mapping pattern="ns_c2" type="PLAIN_TEXT" />
       <mapping pattern="uniq_1130_ver5" type="PLAIN_TEXT" />
       <mapping pattern="placeid_name" type="PLAIN_TEXT" />
       <mapping pattern="special" type="PLAIN_TEXT" />
+      <mapping pattern="1_not_dirty" type="PLAIN_TEXT" />
       <mapping pattern="specialname" type="PLAIN_TEXT" />
-      <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="specialname_only_compose" type="PLAIN_TEXT" />
-      <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="verb" type="PLAIN_TEXT" />
       <mapping pattern="dirty_words" type="PLAIN_TEXT" />
       <mapping pattern="osmid_name" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="thd" type="PLAIN_TEXT" />
+      <mapping ext="four" type="PLAIN_TEXT" />
       <mapping ext="yes" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="md5" type="PLAIN_TEXT" />
       <mapping ext="147" type="PLAIN_TEXT" />
-      <mapping ext="four" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="fir" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="propertis" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="sec" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
