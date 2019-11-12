@@ -66,6 +66,7 @@
       <mapping pattern="special" type="PLAIN_TEXT" />
       <mapping pattern="1_not_dirty" type="PLAIN_TEXT" />
       <mapping pattern="specialname" type="PLAIN_TEXT" />
+      <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
       <mapping pattern="specialname_only_compose" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
