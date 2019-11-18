@@ -37,6 +37,7 @@
       <mapping pattern="urlQuerystrDoc" type="PLAIN_TEXT" />
       <mapping pattern="dirty" type="PLAIN_TEXT" />
       <mapping pattern="ns_poi" type="PLAIN_TEXT" />
+      <mapping pattern="placeid_name" type="PLAIN_TEXT" />
       <mapping pattern="tag_test" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000_30000" type="PLAIN_TEXT" />
       <mapping pattern="start_url" type="PLAIN_TEXT" />
@@ -49,6 +50,7 @@
       <mapping pattern="cant_recog2" type="PLAIN_TEXT" />
       <mapping pattern="20140514-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="word_count_1211" type="PLAIN_TEXT" />
+      <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
       <mapping pattern="oppoR17_2_4000" type="PLAIN_TEXT" />
       <mapping pattern="picTag" type="PLAIN_TEXT" />
       <mapping pattern="uniq_verb" type="PLAIN_TEXT" />
@@ -62,11 +64,9 @@
       <mapping pattern="special_2" type="PLAIN_TEXT" />
       <mapping pattern="ns_c2" type="PLAIN_TEXT" />
       <mapping pattern="uniq_1130_ver5" type="PLAIN_TEXT" />
-      <mapping pattern="placeid_name" type="PLAIN_TEXT" />
       <mapping pattern="special" type="PLAIN_TEXT" />
       <mapping pattern="1_not_dirty" type="PLAIN_TEXT" />
       <mapping pattern="specialname" type="PLAIN_TEXT" />
-      <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
       <mapping pattern="specialname_only_compose" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
