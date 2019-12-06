@@ -7,11 +7,12 @@
       <mapping pattern="cloud2" type="HTML" />
       <mapping pattern="专属词汇" type="PLAIN_TEXT" />
       <mapping pattern="start_url_true" type="PLAIN_TEXT" />
+      <mapping pattern="img.base64" type="PLAIN_TEXT" />
       <mapping pattern="country_city_poi" type="PLAIN_TEXT" />
       <mapping pattern="20140425-伪基站关键词" type="PLAIN_TEXT" />
       <mapping pattern="20140414-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping pattern="img.base64" type="PLAIN_TEXT" />
+      <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_desc_10000" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
@@ -21,16 +22,17 @@
       <mapping pattern="20170802-危爆物品清理关键词-屏蔽型" type="PLAIN_TEXT" />
       <mapping pattern="sensitive_words" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
+      <mapping pattern="mysql.MD" type="PLAIN_TEXT" />
       <mapping pattern="unq_verb" type="PLAIN_TEXT" />
       <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark2" type="PLAIN_TEXT" />
       <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
-      <mapping pattern="mysql.MD" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords" type="PLAIN_TEXT" />
       <mapping pattern="pic_tag" type="PLAIN_TEXT" />
       <mapping pattern="ta" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag" type="PLAIN_TEXT" />
       <mapping pattern="20140425-屏蔽型关键词" type="PLAIN_TEXT" />
+      <mapping pattern="verb" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag.txt" type="PLAIN_TEXT" />
       <mapping pattern="urlQuerystrDoc" type="PLAIN_TEXT" />
       <mapping pattern="dirty" type="PLAIN_TEXT" />
@@ -65,11 +67,9 @@
       <mapping pattern="special" type="PLAIN_TEXT" />
       <mapping pattern="1_not_dirty" type="PLAIN_TEXT" />
       <mapping pattern="specialname" type="PLAIN_TEXT" />
-      <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="specialname_only_compose" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="verb" type="PLAIN_TEXT" />
       <mapping pattern="dirty_words" type="PLAIN_TEXT" />
       <mapping pattern="osmid_name" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
