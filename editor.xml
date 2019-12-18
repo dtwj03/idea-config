@@ -1,13 +1,14 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
