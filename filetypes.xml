@@ -37,10 +37,10 @@
       <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000" type="PLAIN_TEXT" />
-      <mapping pattern="scenceTag" type="PLAIN_TEXT" />
       <mapping pattern="dirty" type="PLAIN_TEXT" />
-      <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
       <mapping pattern="start_urls" type="PLAIN_TEXT" />
+      <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
+      <mapping pattern="scenceTag" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_desc_10000" type="PLAIN_TEXT" />
       <mapping pattern="picTag" type="PLAIN_TEXT" />
       <mapping pattern="mysql.MD" type="PLAIN_TEXT" />
@@ -56,7 +56,6 @@
       <mapping pattern="special" type="PLAIN_TEXT" />
       <mapping pattern="ta" type="PLAIN_TEXT" />
       <mapping pattern="word_count_1211" type="PLAIN_TEXT" />
-      <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
       <mapping pattern="ns_poi" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
       <mapping pattern="osmid_name" type="PLAIN_TEXT" />
@@ -70,6 +69,7 @@
       <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="宝箱活动" type="PLAIN_TEXT" />
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
+      <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
       <mapping ext="yes" type="PLAIN_TEXT" />
       <mapping ext="txt_03" type="PLAIN_TEXT" />
