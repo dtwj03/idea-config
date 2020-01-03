@@ -46,6 +46,7 @@
       <mapping pattern="mysql.MD" type="PLAIN_TEXT" />
       <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="img.base64" type="PLAIN_TEXT" />
       <mapping pattern="20140414-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
