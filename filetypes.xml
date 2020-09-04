@@ -16,6 +16,7 @@
       <mapping pattern="20170117-查看屏蔽关键词2017-01-17" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="special_2" type="PLAIN_TEXT" />
+      <mapping pattern="check_quota_v2_sort" type="PLAIN_TEXT" />
       <mapping pattern="专属词汇" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag.txt" type="PLAIN_TEXT" />
       <mapping pattern="urlQuerystrDoc" type="PLAIN_TEXT" />
@@ -57,6 +58,7 @@
       <mapping pattern="special" type="PLAIN_TEXT" />
       <mapping pattern="ta" type="PLAIN_TEXT" />
       <mapping pattern="word_count_1211" type="PLAIN_TEXT" />
+      <mapping pattern="check_quota_v1" type="PLAIN_TEXT" />
       <mapping pattern="ns_poi" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
       <mapping pattern="osmid_name" type="PLAIN_TEXT" />
@@ -70,6 +72,7 @@
       <mapping pattern="20140514-屏蔽域名库" type="PLAIN_TEXT" />
       <mapping pattern="宝箱活动" type="PLAIN_TEXT" />
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
+      <mapping pattern="check_quota_v1_sort" type="PLAIN_TEXT" />
       <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
       <mapping ext="yes" type="PLAIN_TEXT" />
