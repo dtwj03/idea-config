@@ -6,8 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="verb_combine_15000_30000" type="PLAIN_TEXT" />
-      <mapping pattern="special_uniq_sort" type="PLAIN_TEXT" />
       <mapping pattern="placeid_name" type="PLAIN_TEXT" />
+      <mapping pattern="special_uniq_sort" type="PLAIN_TEXT" />
       <mapping pattern="dirty_connect" type="PLAIN_TEXT" />
       <mapping pattern="img.base64" type="PLAIN_TEXT" />
       <mapping pattern="scenceTag" type="PLAIN_TEXT" />
@@ -23,16 +23,16 @@
       <mapping pattern="scenceTag.txt" type="PLAIN_TEXT" />
       <mapping pattern="20140414-屏蔽型关键词" type="PLAIN_TEXT" />
       <mapping pattern="20_500_dpi" type="PLAIN_TEXT" />
-      <mapping pattern="ta" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="ta" type="PLAIN_TEXT" />
       <mapping pattern="check_quota_v1_sort" type="PLAIN_TEXT" />
       <mapping pattern="urlQuerystrDoc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="oppoR17_2_4000" type="PLAIN_TEXT" />
       <mapping pattern="mysql.MD" type="PLAIN_TEXT" />
-      <mapping pattern="uniq_1130_ver5" type="PLAIN_TEXT" />
-      <mapping pattern="dirty" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords" type="PLAIN_TEXT" />
+      <mapping pattern="dirty" type="PLAIN_TEXT" />
+      <mapping pattern="uniq_1130_ver5" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000" type="PLAIN_TEXT" />
       <mapping pattern="special_2" type="PLAIN_TEXT" />
       <mapping pattern="urlQureyDoc" type="PLAIN_TEXT" />
