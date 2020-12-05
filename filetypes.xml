@@ -60,10 +60,10 @@
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
       <mapping pattern="domain_src_mapping" type="PLAIN_TEXT" />
       <mapping pattern="tag_test" type="PLAIN_TEXT" />
-      <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
-      <mapping pattern="news_history" type="PLAIN_TEXT" />
+      <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
+      <mapping pattern="news_history" type="PLAIN_TEXT" />
       <mapping pattern="start_urls" type="PLAIN_TEXT" />
       <mapping pattern="宝箱活动" type="PLAIN_TEXT" />
       <mapping pattern="start_url" type="PLAIN_TEXT" />
@@ -74,8 +74,8 @@
       <mapping pattern="special_singleword" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark2" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
-      <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="dirty_words" type="PLAIN_TEXT" />
+      <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="cant_recog2" type="PLAIN_TEXT" />
       <mapping ext="txt_02" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
@@ -99,6 +99,7 @@
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="txt_01" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -106,6 +107,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="乌鲁木齐二人分析" type="ThymeleafExpressions" />
