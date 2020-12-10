@@ -2,7 +2,11 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta m" />
   </action>
 </keymap>
