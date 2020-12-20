@@ -1,0 +1,17 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-12-16T22:33:55</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2020-12-16T23:40:03</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5ea54c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
