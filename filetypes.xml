@@ -60,10 +60,10 @@
       <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
       <mapping pattern="domain_src_mapping" type="PLAIN_TEXT" />
       <mapping pattern="tag_test" type="PLAIN_TEXT" />
-      <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
-      <mapping pattern="news_history" type="PLAIN_TEXT" />
+      <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
+      <mapping pattern="news_history" type="PLAIN_TEXT" />
       <mapping pattern="start_urls" type="PLAIN_TEXT" />
       <mapping pattern="宝箱活动" type="PLAIN_TEXT" />
       <mapping pattern="start_url" type="PLAIN_TEXT" />
@@ -74,36 +74,37 @@
       <mapping pattern="special_singleword" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark2" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
-      <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="dirty_words" type="PLAIN_TEXT" />
+      <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="cant_recog2" type="PLAIN_TEXT" />
+      <mapping ext="txt_01" type="PLAIN_TEXT" />
       <mapping ext="txt_02" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="txt_03" type="PLAIN_TEXT" />
+      <mapping ext="propertis" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="base64" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="four" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="thd" type="PLAIN_TEXT" />
       <mapping ext="f" type="PLAIN_TEXT" />
-      <mapping ext="txt_03" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="sec" type="PLAIN_TEXT" />
-      <mapping ext="propertis" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="147" type="PLAIN_TEXT" />
-      <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="md5" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="four" type="PLAIN_TEXT" />
       <mapping ext="fir" type="PLAIN_TEXT" />
       <mapping ext="yes" type="PLAIN_TEXT" />
-      <mapping ext="dict" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="txt_01" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
