@@ -1,0 +1,30 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="lary" />
+      <item value="nullary" />
+      <item value="&lt;p&gt;Typical usage is registering all bean definitions first (possibly read from a bean definition file), before accessing beans. Bean lookup by name is therefore an inexpensive operation in a local bean definition table, operating on pre-resolved bean definition metadata objects." />
+      <item value="Completion Stage" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609862804922" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20201223000654225" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
+  </component>
+</application>
