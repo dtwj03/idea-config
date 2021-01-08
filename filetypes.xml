@@ -85,6 +85,7 @@
       <mapping ext="txt_03" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="sec" type="PLAIN_TEXT" />
+      <mapping ext="mapper" type="PLAIN_TEXT" />
       <mapping ext="propertis" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
