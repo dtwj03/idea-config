@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609862804922" />
+    <option name="lastTrimTime" value="1610330189317" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -23,7 +23,6 @@
         <option name="appId" value="20201223000654225" />
       </app-key>
     </option>
-    <option name="ignoreRegExp" value="" />
     <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
   </component>
