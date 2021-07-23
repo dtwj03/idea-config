@@ -14,8 +14,8 @@
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="picTag" type="PLAIN_TEXT" />
       <mapping pattern="verb_combine_15000_30000" type="PLAIN_TEXT" />
-      <mapping pattern="special_uniq_sort" type="PLAIN_TEXT" />
       <mapping pattern="placeid_name" type="PLAIN_TEXT" />
+      <mapping pattern="special_uniq_sort" type="PLAIN_TEXT" />
       <mapping pattern="check_quota_v1" type="PLAIN_TEXT" />
       <mapping pattern="dirty_connect" type="PLAIN_TEXT" />
       <mapping pattern="country_city_poi" type="PLAIN_TEXT" />
@@ -59,15 +59,15 @@
       <mapping pattern="urlQureyDoc" type="PLAIN_TEXT" />
       <mapping pattern="1_not_dirty" type="PLAIN_TEXT" />
       <mapping pattern="specialname" type="PLAIN_TEXT" />
-      <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
-      <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
       <mapping pattern="uniq_verb" type="PLAIN_TEXT" />
+      <mapping pattern="baidumap_food_name" type="PLAIN_TEXT" />
+      <mapping pattern="荣耀magic2_15_4000" type="PLAIN_TEXT" />
       <mapping pattern="domain_src_mapping" type="PLAIN_TEXT" />
       <mapping pattern="tag_test" type="PLAIN_TEXT" />
-      <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="可能违禁动词" type="PLAIN_TEXT" />
-      <mapping pattern="news_history" type="PLAIN_TEXT" />
+      <mapping pattern="违禁词已整理" type="PLAIN_TEXT" />
       <mapping pattern="shipin_keywords_new" type="PLAIN_TEXT" />
+      <mapping pattern="news_history" type="PLAIN_TEXT" />
       <mapping pattern="start_urls" type="PLAIN_TEXT" />
       <mapping pattern="宝箱活动" type="PLAIN_TEXT" />
       <mapping pattern="start_url" type="PLAIN_TEXT" />
@@ -78,8 +78,8 @@
       <mapping pattern="special_singleword" type="PLAIN_TEXT" />
       <mapping pattern="footprintTypeMark2" type="PLAIN_TEXT" />
       <mapping pattern="lossName" type="PLAIN_TEXT" />
-      <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="dirty_words" type="PLAIN_TEXT" />
+      <mapping pattern="2_cant_confir" type="PLAIN_TEXT" />
       <mapping pattern="cant_recog2" type="PLAIN_TEXT" />
       <mapping ext="txt_02" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
