@@ -99,6 +99,7 @@
       <mapping ext="md5" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="four" type="PLAIN_TEXT" />
+      <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="fir" type="PLAIN_TEXT" />
       <mapping ext="yes" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
